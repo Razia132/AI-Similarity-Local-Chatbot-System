@@ -2,8 +2,6 @@
 
 AI assignment implementing a name similarity matching system and a locally running recipe recommendation chatbot using Python and FastAPI.
 
----
-
 ## 📌 Project Overview
 
 This repository contains the implementation of an AI assignment consisting of two independent tasks:
@@ -80,3 +78,13 @@ This project highlights:
 - Local AI model integration
 - API-based chatbot development
 - Clean and modular project organization
+
+## 🔍 Project Evaluation Process
+
+To verify and evaluate this project, follow the steps below:
+
+### Step 1: Clone the Repository
+Clone the project from GitHub to your local machine:
+```bash
+git clone <repository-url>
+cd AI-Similarity-Local-Chatbot-System
