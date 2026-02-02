@@ -78,13 +78,17 @@ This project highlights:
 - Local AI model integration
 - API-based chatbot development
 - Clean and modular project organization
+ ## 📸 Sample Outputs
 
-## 🔍 Project Evaluation Process
+### 🔹 Task 1: Name Similarity Matching
+![Task 1 Output](screenshots/task1.png)
 
-To verify and evaluate this project, follow the steps below:
+### 🔹 Task 2: Recipe Recommendation Chatbot
 
-### Clone the Repository
-Clone the project from GitHub to your local machine:
-```bash
-git clone <repository-url>
-cd AI-Similarity-Local-Chatbot-System
+**Request Example**
+![Task 2 Input](screenshots/task2.png)
+
+**Response Example**
+![Task 2 Output](screenshots/task21.png)
+
+
