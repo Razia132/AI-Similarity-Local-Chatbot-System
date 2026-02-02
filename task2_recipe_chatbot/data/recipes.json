@@ -1,0 +1,34 @@
+[
+  {
+    "ingredients": "egg, onion",
+    "recipe": "You can prepare a simple egg omelette by beating eggs and cooking them with chopped onions."
+  },
+  {
+    "ingredients": "rice, vegetables",
+    "recipe": "You can make vegetable fried rice by stir-frying cooked rice with mixed vegetables."
+  },
+  {
+    "ingredients": "potato, onion",
+    "recipe": "You can prepare aloo curry by cooking potatoes with onions and basic spices."
+  },
+  {
+    "ingredients": "bread, egg",
+    "recipe": "You can prepare an egg sandwich by stuffing cooked egg between toasted bread slices."
+  },
+  {
+    "ingredients": "tomato, onion",
+    "recipe": "You can prepare a simple tomato-onion curry to eat with rice or roti."
+  },
+  {
+    "ingredients": "milk, sugar",
+    "recipe": "You can prepare a simple sweet milk drink by boiling milk with sugar."
+  },
+  {
+    "ingredients": "chicken, spices",
+    "recipe": "You can prepare a basic chicken curry using chicken pieces and common spices."
+  },
+  {
+    "ingredients": "paneer, vegetables",
+    "recipe": "You can prepare paneer vegetable curry by cooking paneer cubes with mixed vegetables."
+  }
+]
