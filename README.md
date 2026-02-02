@@ -81,12 +81,12 @@ This project highlights:
  ## 📸 Sample Outputs
 
 ### 🔹 Task 1: Name Similarity Matching
-![Task 1 Output](screenshots/task1.png)
+![Task 1 Output](screenshots/Task1.png)
 
 ### 🔹 Task 2: Recipe Recommendation Chatbot
 
 **Request Example**
-![Task 2 Input](screenshots/task2.png)
+![Task 2 Input](screenshots/Task2.png)
 
 **Response Example**
 ![Task 2 Output](screenshots/task21.png)
