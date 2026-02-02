@@ -1,7 +1,7 @@
 from rapidfuzz import process, fuzz
 
 # Loading names from dataset file
-with open("task1_name_matching/names.txt", "r") as file:
+with open("names.txt", "r") as file:
     names = [line.strip() for line in file if line.strip()]
 
 
