@@ -31,10 +31,7 @@ This task simulates real-world scenarios where exact name matching may fail due 
 
 ---
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python name_matcher.py
+Example output:
 
 Enter a name: Razi
 
@@ -49,4 +46,39 @@ Nazia - 0.67
 Python
 
 RapidFuzz (string similarity)
+
+--> Follow the steps below to run and verify each task locally.
+
+📥 Step 1: Clone the Repository
+
+Clone the project to your local system:
+
+git clone https://github.com/Razia132/AI-Similarity-Local-Chatbot-System.git
+cd AI-Similarity-Local-Chatbot-System
+
+▶️ Task 1: Name Similarity Matching System
+Step 1: Navigate to Task 1 folder
+cd task1_name_matching
+
+Step 2: Install required dependency
+pip install -r requirements.txt
+
+Step 3: Run the program
+python name_matcher.py
+
+Step 4: Provide input
+
+When prompted, enter a name:
+
+Enter a name: Razi
+
+Expected Output
+
+The closest matching name is displayed
+
+Similarity score is shown
+
+Other close matches are listed in ranked order
+
+
 
