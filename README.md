@@ -12,29 +12,6 @@ This repository contains the implementation of an AI assignment consisting of tw
 The project demonstrates practical AI concepts such as text similarity matching, local language model usage, API integration, and clean project structuring.  
 All components are designed to run locally on a standard Windows/Linux machine.
 
----
-
-## 📁 Project Structure
-│
-├── task1_name_matching/
-│   ├── README.md
-│   ├── name_matcher.py
-│   ├── requirements.txt
-│
-├── task2_recipe_chatbot/
-│   ├── README.md
-│   ├── app.py
-│   ├── model.py
-│   ├── data/
-│   │   └── recipes.json
-│   ├── requirements.txt
-│
-├── README.md
-└── requirements.txt 
-
-Each task is implemented in a separate folder to maintain modularity, clarity, and ease of testing.
-
----
 
 ## 🧩 Task Summary
 
