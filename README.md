@@ -30,7 +30,7 @@ All components are designed to run locally on a standard Windows/Linux machine.
 │   ├── requirements.txt
 │
 ├── README.md
-└── requirements.txt (optional / common)
+└── requirements.txt 
 
 Each task is implemented in a separate folder to maintain modularity, clarity, and ease of testing.
 
@@ -83,7 +83,7 @@ This project highlights:
 
 To verify and evaluate this project, follow the steps below:
 
-### Step 1: Clone the Repository
+### Clone the Repository
 Clone the project from GitHub to your local machine:
 ```bash
 git clone <repository-url>
