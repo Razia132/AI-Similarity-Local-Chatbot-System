@@ -47,36 +47,54 @@ task2_recipe_chatbot/
 4. A relevant recipe is returned as a JSON response.
 
 ---
+Follow the steps below to run and verify each task locally.
 
-## ▶️ How to Run
+📥 Step 1: Clone the Repository
 
-### Step 1: Install dependencies
-Navigate to the Task 2 folder and run:
-```bash
+Clone the project to your local system:
+
+git clone https://github.com/Razia132/AI-Similarity-Local-Chatbot-System.git
+cd AI-Similarity-Local-Chatbot-System
+
+Step 1: Navigate to Task 2 folder
+cd task2_recipe_chatbot
+
+Step 2: Install required dependencies
 pip install -r requirements.txt
-Step 2: Start the FastAPI server
-python -m uvicorn app:app --reload
-You should see:
 
-Uvicorn running on http://127.0.0.1:8000
-🌐 How to Use the Chatbot
-Open your browser and go to:
+Step 3: Start the FastAPI server
+python -m uvicorn app:app --reload
+
+
+You should see a message indicating that the server is running.
+
+Step 4: Open the Chatbot Interface
+
+Open a browser and go to:
 
 http://127.0.0.1:8000/docs
-Use the POST /chat endpoint.
 
-Click Try it out.
 
-Enter ingredients in JSON format.
+This opens FastAPI’s interactive Swagger UI.
 
-Sample Request
+Step 5: Test the chatbot
+
+Select POST /chat
+
+Click Try it out
+
+Enter ingredients in JSON format:
+
 {
   "ingredients": "egg, onion"
 }
-Sample Response
-{
-  "recipe": "You can prepare a simple egg omelette by beating eggs and cooking them with chopped onions."
-}
+
+
+Click Execute
+
+Expected Output
+
+A recipe suggestion is returned in JSON format
 🛠️ Technologies Used
 Python
 
